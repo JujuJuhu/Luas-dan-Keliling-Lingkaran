@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Luas dan Keliling Lingkaran", "Luas dan Keliling Lingkaran\Luas dan Keliling Lingkaran.vcxproj", "{B6712EC5-2100-496F-BE72-2157F925A10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Debug|x64.ActiveCfg = Debug|x64
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Debug|x64.Build.0 = Debug|x64
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Debug|x86.Build.0 = Debug|Win32
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Release|x64.ActiveCfg = Release|x64
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Release|x64.Build.0 = Release|x64
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Release|x86.ActiveCfg = Release|Win32
+		{B6712EC5-2100-496F-BE72-2157F925A10E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C354EE-E37C-42F7-9B7D-46BCD9AA7D97}
+	EndGlobalSection
+EndGlobal
